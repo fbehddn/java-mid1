@@ -1,10 +1,8 @@
 package enumertaion.ex3;
 
-import javax.management.ObjectName;
-
 import static enumertaion.ex3.Grade.*;
 
-public class EunmRefMain {
+public class EumRefMain {
     public static void main(String[] args) {
         System.out.println("Grade.BASIC.getClass() = " + BASIC.getClass());
         System.out.println("Grade..getClass() = " + GOLD.getClass());
