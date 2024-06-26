@@ -1,4 +1,4 @@
-package enumertaion.time;
+package time;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
